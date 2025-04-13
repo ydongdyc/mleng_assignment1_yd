@@ -9,6 +9,7 @@ The main script, `score_headlines.py`, accepts a text file of headlines and clas
 ## 🛠 How to Use
 
 Usage: python score_headlines.py <input_file> <source>
+
 Example: python score_headlines.py todaysheadlines.txt nyt
 
 ### ⚙️ Requirements
